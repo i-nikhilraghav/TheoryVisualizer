@@ -1,0 +1,6 @@
+{
+  "name": "TheoryVisualizer",
+  "description": "Multi-tiered educational theory visualizer transforming complex texts and textbooks into interactive mind maps, visual storyboards, mathematical models, spaced-repetition flashcards, and adaptive assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
